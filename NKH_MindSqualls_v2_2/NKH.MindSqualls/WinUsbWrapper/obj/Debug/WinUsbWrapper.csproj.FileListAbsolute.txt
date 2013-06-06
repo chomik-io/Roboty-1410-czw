@@ -1,0 +1,4 @@
+C:\Users\Mateusz\Desktop\robotyka\NKH_MindSqualls_v2_2\NKH.MindSqualls\WinUsbWrapper\bin\Debug\WinUsbWrapper.dll
+C:\Users\Mateusz\Desktop\robotyka\NKH_MindSqualls_v2_2\NKH.MindSqualls\WinUsbWrapper\bin\Debug\WinUsbWrapper.pdb
+C:\Users\Mateusz\Desktop\robotyka\NKH_MindSqualls_v2_2\NKH.MindSqualls\WinUsbWrapper\obj\Debug\WinUsbWrapper.dll
+C:\Users\Mateusz\Desktop\robotyka\NKH_MindSqualls_v2_2\NKH.MindSqualls\WinUsbWrapper\obj\Debug\WinUsbWrapper.pdb

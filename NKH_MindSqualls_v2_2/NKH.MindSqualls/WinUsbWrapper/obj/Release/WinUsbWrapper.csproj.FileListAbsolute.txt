@@ -1,0 +1,5 @@
+d:\Programming\Source.Net40\!MindSqualls\NKH.MindSqualls\WinUsbWrapper\bin\Release\WinUsbWrapper.dll
+d:\Programming\Source.Net40\!MindSqualls\NKH.MindSqualls\WinUsbWrapper\bin\Release\WinUsbWrapper.pdb
+d:\Programming\Source.Net40\!MindSqualls\NKH.MindSqualls\WinUsbWrapper\obj\Release\ResolveAssemblyReference.cache
+d:\Programming\Source.Net40\!MindSqualls\NKH.MindSqualls\WinUsbWrapper\obj\Release\WinUsbWrapper.dll
+d:\Programming\Source.Net40\!MindSqualls\NKH.MindSqualls\WinUsbWrapper\obj\Release\WinUsbWrapper.pdb

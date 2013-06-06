@@ -1,0 +1,10 @@
+d:\Programming\Source.Net40\!MindSqualls\NKH.MindSqualls\bin\Release\NKH.MindSqualls.dll
+d:\Programming\Source.Net40\!MindSqualls\NKH.MindSqualls\bin\Release\NKH.MindSqualls.pdb
+d:\Programming\Source.Net40\!MindSqualls\NKH.MindSqualls\bin\Release\WinUsbWrapper.dll
+d:\Programming\Source.Net40\!MindSqualls\NKH.MindSqualls\bin\Release\WinUsbWrapper.pdb
+d:\Programming\Source.Net40\!MindSqualls\NKH.MindSqualls\obj\Release\ResolveAssemblyReference.cache
+d:\Programming\Source.Net40\!MindSqualls\NKH.MindSqualls\obj\Release\NKH.MindSqualls.dll
+d:\Programming\Source.Net40\!MindSqualls\NKH.MindSqualls\obj\Release\NKH.MindSqualls.pdb
+C:\Users\local\Desktop\NKH_MindSqualls_v2_2\NKH.MindSqualls\obj\Release\ResolveAssemblyReference.cache
+C:\Users\local\Desktop\NKH_MindSqualls_v2_2\NKH.MindSqualls\obj\Release\NKH.MindSqualls.dll
+C:\Users\local\Desktop\NKH_MindSqualls_v2_2\NKH.MindSqualls\obj\Release\NKH.MindSqualls.pdb

@@ -1,0 +1,15 @@
+C:\Users\local\Desktop\NKH_MindSqualls_v2_2\NKH.MindSqualls\WinUsbWrapper\bin\Debug\WinUsbWrapper.dll
+C:\Users\local\Desktop\NKH_MindSqualls_v2_2\NKH.MindSqualls\WinUsbWrapper\bin\Debug\WinUsbWrapper.pdb
+C:\Users\local\Desktop\NKH_MindSqualls_v2_2\NKH.MindSqualls\WinUsbWrapper\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\local\Desktop\NKH_MindSqualls_v2_2\NKH.MindSqualls\WinUsbWrapper\obj\Debug\WinUsbWrapper.dll
+C:\Users\local\Desktop\NKH_MindSqualls_v2_2\NKH.MindSqualls\WinUsbWrapper\obj\Debug\WinUsbWrapper.pdb
+C:\Users\Mateusz\Desktop\qualls_v2_2\NKH_MindSqualls_v2_2\NKH.MindSqualls\WinUsbWrapper\bin\Debug\WinUsbWrapper.dll
+C:\Users\Mateusz\Desktop\qualls_v2_2\NKH_MindSqualls_v2_2\NKH.MindSqualls\WinUsbWrapper\bin\Debug\WinUsbWrapper.pdb
+C:\Users\Mateusz\Desktop\qualls_v2_2\NKH_MindSqualls_v2_2\NKH.MindSqualls\WinUsbWrapper\obj\Debug\WinUsbWrapper.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\qualls_v2_2\NKH_MindSqualls_v2_2\NKH.MindSqualls\WinUsbWrapper\obj\Debug\WinUsbWrapper.dll
+C:\Users\Mateusz\Desktop\qualls_v2_2\NKH_MindSqualls_v2_2\NKH.MindSqualls\WinUsbWrapper\obj\Debug\WinUsbWrapper.pdb
+C:\Users\Mateusz\Desktop\robotyka\NKH_MindSqualls_v2_2\NKH.MindSqualls\WinUsbWrapper\bin\Debug\WinUsbWrapper.dll
+C:\Users\Mateusz\Desktop\robotyka\NKH_MindSqualls_v2_2\NKH.MindSqualls\WinUsbWrapper\bin\Debug\WinUsbWrapper.pdb
+C:\Users\Mateusz\Desktop\robotyka\NKH_MindSqualls_v2_2\NKH.MindSqualls\WinUsbWrapper\obj\Debug\WinUsbWrapper.csprojResolveAssemblyReference.cache
+C:\Users\Mateusz\Desktop\robotyka\NKH_MindSqualls_v2_2\NKH.MindSqualls\WinUsbWrapper\obj\Debug\WinUsbWrapper.dll
+C:\Users\Mateusz\Desktop\robotyka\NKH_MindSqualls_v2_2\NKH.MindSqualls\WinUsbWrapper\obj\Debug\WinUsbWrapper.pdb
